@@ -66,9 +66,9 @@ Body Accelerometer Data
 
     Equipment:
         Each unique equipment provides 
-        Body Accelerometer
-        Body Gyroscope
-        Gravity Accelerometer
+        Body Accelerometer in 'gs'
+        Body Gyroscope in 'radians/second'
+        Gravity Accelerometer in 'gs'
     Calculations
         Mean
         Standard Deviation - specifies the standard deviation of the 
@@ -133,9 +133,9 @@ Fast Fourier Transform Data
 
     Equipment:
         Each unique equipment provides 
-        Body Accelerometer
-        Body Gyroscope
-        Gravity Accelerometer
+        Body Accelerometer in 'gs'
+        Body Gyroscope in 'radians/sec'
+        Gravity Accelerometer in 'gs'
     Calculations
         Mean
         Standard Deviation - specifies the standard deviation of the 
