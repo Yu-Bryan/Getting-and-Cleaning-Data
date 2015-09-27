@@ -1,3 +1,6 @@
+Download the dataset at 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 To run,
 
 Open the R terminal and apply the command:
