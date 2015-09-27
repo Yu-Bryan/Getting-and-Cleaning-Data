@@ -83,8 +83,6 @@ Body Accelerometer Data
 * Average Of Time Of Body Accelerometer's mean in the X direction 
 * Average Of Time Of Body Accelerometer's mean in the X direction.1 
 * Average Of Time Of Body Accelerometer's mean in the Z direction 
-
-
 * Average Of Time Of Body Accelerometer's standard deviation in the X direction 
 * Average Of Time Of Body Accelerometer's standard deviation in the X direction.1 
 * Average Of Time Of Body Accelerometer's standard deviation in the Z direction 
