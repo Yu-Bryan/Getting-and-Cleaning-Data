@@ -1,3 +1,4 @@
+library(plyr)
 library(dplyr)
 
 #Reading in feature names
@@ -5,18 +6,23 @@ feature_names_df    = read.table('features.txt')
 features            = feature_names_df[,2]
 cols_with_std_or_mean_in_name = grep('mean[(][)]|std[(][)]',features)
 
-features = sub('fBodyAcc','FastFourierTransformOfBodyAccelerometer',features)
-features = sub('fGravityAcc','FastFourierTransformOfGravityAccelerometer',features)
-features = sub('fBodyGyro','FastFourierTransformOfBodyGyroscope',features)
+features = sub('fBodyAcc','Average Of Fast Fourier Transform Of Body Accelerometer',features)
+features = sub('fGravityAcc','Average Of Fast Fourier Transform Of Gravity Accelerometer',features)
+features = sub('fBodyGyro','Average Of Fast Fourier Transform Of Body Gyroscope',features)
 
-features = sub('tBodyAcc','TimeOfBodyAccelerometer',features)
-features = sub('tGravityAcc','TimeOfGravityAccelerometer',features)
-features = sub('tBodyGyro','TimeOfBodyGyroscope',features)
+features = sub('tBodyAcc','Average Of Time Of Body Accelerometer',features)
+features = sub('tGravityAcc','Average Of Time Of Gravity Accelerometer',features)
+features = sub('tBodyGyro','Average Of Time Of Body Gyroscope',features)
 
-features = sub('Jerk','withJerking',features)
-features = sub('Mag','andMagnitude',features)
+features = sub('Jerk',' with Jerking',features)
+features = sub('Mag',' and Magnitude',features)
+features = sub('[-]mean','\'s mean',features)
+features = sub('[-]std','\'s standard deviation',features)
+features = sub('[-]X',' in the X direction',features)
+features = sub('[-]Y',' in the X direction',features)
+features = sub('[-]Z',' in the Z direction',features)
+
 features = sub('[(][)]','',features)
-features = sub('[-]','_',features)
 
 #features = sub('GravityAcc','GravityAccelerometer',features)
 #features = sub('BodyAcc','BodyAccelerometer',features)
