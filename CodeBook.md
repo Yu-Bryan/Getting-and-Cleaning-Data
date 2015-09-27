@@ -80,55 +80,55 @@ Body Accelerometer Data
         Y coordinate plane
         Z coordinate plane
 
-*"Average Of Time Of Body Accelerometer's mean in the X direction*" 
-*"Average Of Time Of Body Accelerometer's mean in the X direction.1*" 
-*"Average Of Time Of Body Accelerometer's mean in the Z direction*" 
+*Average Of Time Of Body Accelerometer's mean in the X direction 
+*Average Of Time Of Body Accelerometer's mean in the X direction.1 
+*Average Of Time Of Body Accelerometer's mean in the Z direction 
 
 
-*"Average Of Time Of Body Accelerometer's standard deviation in the X direction*" 
-*"Average Of Time Of Body Accelerometer's standard deviation in the X direction.1*" 
-*"Average Of Time Of Body Accelerometer's standard deviation in the Z direction*" 
-*"Average Of Time Of Gravity Accelerometer's mean in the X direction*" 
-*"Average Of Time Of Gravity Accelerometer's mean in the X direction.1*" 
-*"Average Of Time Of Gravity Accelerometer's mean in the Z direction*" 
-*"Average Of Time Of Gravity Accelerometer's standard deviation in the X direction*" 
-*"Average Of Time Of Gravity Accelerometer's standard deviation in the X direction.1*" 
-*"Average Of Time Of Gravity Accelerometer's standard deviation in the Z direction*" 
-*"Average Of Time Of Body Accelerometer with Jerking's mean in the X direction*" 
-*"Average Of Time Of Body Accelerometer with Jerking's mean in the X direction.1*" 
-*"Average Of Time Of Body Accelerometer with Jerking's mean in the Z direction*" 
-*"Average Of Time Of Body Accelerometer with Jerking's standard deviation in the X direction*" 
-*"Average Of Time Of Body Accelerometer with Jerking's standard deviation in the X direction.1*" 
-*"Average Of Time Of Body Accelerometer with Jerking's standard deviation in the Z direction*" 
-*"Average Of Time Of Body Gyroscope's mean in the X direction*" 
-*"Average Of Time Of Body Gyroscope's mean in the X direction.1*" 
-*"Average Of Time Of Body Gyroscope's mean in the Z direction*" 
-*"Average Of Time Of Body Gyroscope's standard deviation in the X direction*" 
-*"Average Of Time Of Body Gyroscope's standard deviation in the X direction.1*" 
-*"Average Of Time Of Body Gyroscope's standard deviation in the Z direction*" 
-*"Average Of Time Of Body Gyroscope with Jerking's mean in the X direction*" 
-*"Average Of Time Of Body Gyroscope with Jerking's mean in the X direction.1*" 
-*"Average Of Time Of Body Gyroscope with Jerking's mean in the Z direction*" 
-*"Average Of Time Of Body Gyroscope with Jerking's standard deviation in the X direction*" 
-*"Average Of Time Of Body Gyroscope with Jerking's standard deviation in the X direction.1*" 
-*"Average Of Time Of Body Gyroscope with Jerking's standard deviation in the Z direction*" 
-*"Average Of Time Of Body Accelerometer and Magnitude's mean*" 
-*"Average Of Time Of Body Accelerometer and Magnitude's standard deviation*" 
-*"Average Of Time Of Gravity Accelerometer and Magnitude's mean*" 
-*"Average Of Time Of Gravity Accelerometer and Magnitude's standard deviation*" 
-*"Average Of Time Of Body Accelerometer with Jerking and Magnitude's mean*" 
-*"Average Of Time Of Body Accelerometer with Jerking and Magnitude's standard deviation*" 
-*"Average Of Time Of Body Gyroscope and Magnitude's mean*" 
-*"Average Of Time Of Body Gyroscope and Magnitude's standard deviation*" 
-*"Average Of Time Of Body Gyroscope with Jerking and Magnitude's mean*" 
-*"Average Of Time Of Body Gyroscope with Jerking and Magnitude's standard deviation*" 
+*Average Of Time Of Body Accelerometer's standard deviation in the X direction 
+*Average Of Time Of Body Accelerometer's standard deviation in the X direction.1 
+*Average Of Time Of Body Accelerometer's standard deviation in the Z direction 
+*Average Of Time Of Gravity Accelerometer's mean in the X direction 
+*Average Of Time Of Gravity Accelerometer's mean in the X direction.1 
+*Average Of Time Of Gravity Accelerometer's mean in the Z direction 
+*Average Of Time Of Gravity Accelerometer's standard deviation in the X direction 
+*Average Of Time Of Gravity Accelerometer's standard deviation in the X direction.1 
+*Average Of Time Of Gravity Accelerometer's standard deviation in the Z direction 
+*Average Of Time Of Body Accelerometer with Jerking's mean in the X direction 
+*Average Of Time Of Body Accelerometer with Jerking's mean in the X direction.1 
+*Average Of Time Of Body Accelerometer with Jerking's mean in the Z direction 
+*Average Of Time Of Body Accelerometer with Jerking's standard deviation in the X direction 
+*Average Of Time Of Body Accelerometer with Jerking's standard deviation in the X direction.1 
+*Average Of Time Of Body Accelerometer with Jerking's standard deviation in the Z direction 
+*Average Of Time Of Body Gyroscope's mean in the X direction 
+*Average Of Time Of Body Gyroscope's mean in the X direction.1 
+*Average Of Time Of Body Gyroscope's mean in the Z direction 
+*Average Of Time Of Body Gyroscope's standard deviation in the X direction 
+*Average Of Time Of Body Gyroscope's standard deviation in the X direction.1 
+*Average Of Time Of Body Gyroscope's standard deviation in the Z direction 
+*Average Of Time Of Body Gyroscope with Jerking's mean in the X direction 
+*Average Of Time Of Body Gyroscope with Jerking's mean in the X direction.1 
+*Average Of Time Of Body Gyroscope with Jerking's mean in the Z direction 
+*Average Of Time Of Body Gyroscope with Jerking's standard deviation in the X direction 
+*Average Of Time Of Body Gyroscope with Jerking's standard deviation in the X direction.1 
+*Average Of Time Of Body Gyroscope with Jerking's standard deviation in the Z direction 
+*Average Of Time Of Body Accelerometer and Magnitude's mean 
+*Average Of Time Of Body Accelerometer and Magnitude's standard deviation 
+*Average Of Time Of Gravity Accelerometer and Magnitude's mean 
+*Average Of Time Of Gravity Accelerometer and Magnitude's standard deviation 
+*Average Of Time Of Body Accelerometer with Jerking and Magnitude's mean 
+*Average Of Time Of Body Accelerometer with Jerking and Magnitude's standard deviation 
+*Average Of Time Of Body Gyroscope and Magnitude's mean 
+*Average Of Time Of Body Gyroscope and Magnitude's standard deviation 
+*Average Of Time Of Body Gyroscope with Jerking and Magnitude's mean 
+*Average Of Time Of Body Gyroscope with Jerking and Magnitude's standard deviation 
 
 
 Fast Fourier Transform Data
     This data set applies the fast fourier tranform onto the Body accelerometer data above.  
     Each data point is a floating point number specified for each direction; X, Y, and Z.
     The values presented is the average of the raw data grouped by participants and activity.
-    For example, *"Average Of Fast Fourier Transform Of Body Accelerometer's mean in the X direction*" 
+    For example, "Average Of Fast Fourier Transform Of Body Accelerometer's mean in the X direction" 
         1) Taken the mean of the Accelerometer's data in the X direction
         2) Applied the Fast Fourier Transform 
         3) Averaged across each participant and activity
@@ -149,29 +149,29 @@ Fast Fourier Transform Data
         Y coordinate plane
         Z coordinate plane
 
-*"Average Of Fast Fourier Transform Of Body Accelerometer's mean in the X direction*" 
-*"Average Of Fast Fourier Transform Of Body Accelerometer's mean in the X direction.1*" 
-*"Average Of Fast Fourier Transform Of Body Accelerometer's mean in the Z direction*" 
-*"Average Of Fast Fourier Transform Of Body Accelerometer's standard deviation in the X direction*" 
-*"Average Of Fast Fourier Transform Of Body Accelerometer's standard deviation in the X direction.1*" 
-*"Average Of Fast Fourier Transform Of Body Accelerometer's standard deviation in the Z direction*" 
-*"Average Of Fast Fourier Transform Of Body Accelerometer with Jerking's mean in the X direction*" 
-*"Average Of Fast Fourier Transform Of Body Accelerometer with Jerking's mean in the X direction.1*" 
-*"Average Of Fast Fourier Transform Of Body Accelerometer with Jerking's mean in the Z direction*" 
-*"Average Of Fast Fourier Transform Of Body Accelerometer with Jerking's standard deviation in the X direction*" 
-*"Average Of Fast Fourier Transform Of Body Accelerometer with Jerking's standard deviation in the X direction.1*" 
-*"Average Of Fast Fourier Transform Of Body Accelerometer with Jerking's standard deviation in the Z direction*" 
-*"Average Of Fast Fourier Transform Of Body Gyroscope's mean in the X direction*" 
-*"Average Of Fast Fourier Transform Of Body Gyroscope's mean in the X direction.1*" 
-*"Average Of Fast Fourier Transform Of Body Gyroscope's mean in the Z direction*" 
-*"Average Of Fast Fourier Transform Of Body Gyroscope's standard deviation in the X direction*" 
-*"Average Of Fast Fourier Transform Of Body Gyroscope's standard deviation in the X direction.1*" 
-*"Average Of Fast Fourier Transform Of Body Gyroscope's standard deviation in the Z direction*" 
-*"Average Of Fast Fourier Transform Of Body Accelerometer and Magnitude's mean*" 
-*"Average Of Fast Fourier Transform Of Body Accelerometer and Magnitude's standard deviation*" 
-*"Average Of Fast Fourier Transform Of Body Accelerometer with Jerking and Magnitude's mean*" 
-*"Average Of Fast Fourier Transform Of Body Accelerometer with Jerking and Magnitude's standard deviation*" 
-*"Average Of Fast Fourier Transform Of Body Gyroscope and Magnitude's mean*" 
-*"Average Of Fast Fourier Transform Of Body Gyroscope and Magnitude's standard deviation*" 
-*"Average Of Fast Fourier Transform Of Body Gyroscope with Jerking and Magnitude's mean*" 
-*"Average Of Fast Fourier Transform Of Body Gyroscope with Jerking and Magnitude's standard deviation*"
+*Average Of Fast Fourier Transform Of Body Accelerometer's mean in the X direction 
+*Average Of Fast Fourier Transform Of Body Accelerometer's mean in the X direction.1 
+*Average Of Fast Fourier Transform Of Body Accelerometer's mean in the Z direction 
+*Average Of Fast Fourier Transform Of Body Accelerometer's standard deviation in the X direction 
+*Average Of Fast Fourier Transform Of Body Accelerometer's standard deviation in the X direction.1 
+*Average Of Fast Fourier Transform Of Body Accelerometer's standard deviation in the Z direction 
+*Average Of Fast Fourier Transform Of Body Accelerometer with Jerking's mean in the X direction 
+*Average Of Fast Fourier Transform Of Body Accelerometer with Jerking's mean in the X direction.1 
+*Average Of Fast Fourier Transform Of Body Accelerometer with Jerking's mean in the Z direction 
+*Average Of Fast Fourier Transform Of Body Accelerometer with Jerking's standard deviation in the X direction 
+*Average Of Fast Fourier Transform Of Body Accelerometer with Jerking's standard deviation in the X direction.1 
+*Average Of Fast Fourier Transform Of Body Accelerometer with Jerking's standard deviation in the Z direction 
+*Average Of Fast Fourier Transform Of Body Gyroscope's mean in the X direction 
+*Average Of Fast Fourier Transform Of Body Gyroscope's mean in the X direction.1 
+*Average Of Fast Fourier Transform Of Body Gyroscope's mean in the Z direction 
+*Average Of Fast Fourier Transform Of Body Gyroscope's standard deviation in the X direction 
+*Average Of Fast Fourier Transform Of Body Gyroscope's standard deviation in the X direction.1 
+*Average Of Fast Fourier Transform Of Body Gyroscope's standard deviation in the Z direction 
+*Average Of Fast Fourier Transform Of Body Accelerometer and Magnitude's mean 
+*Average Of Fast Fourier Transform Of Body Accelerometer and Magnitude's standard deviation 
+*Average Of Fast Fourier Transform Of Body Accelerometer with Jerking and Magnitude's mean 
+*Average Of Fast Fourier Transform Of Body Accelerometer with Jerking and Magnitude's standard deviation 
+*Average Of Fast Fourier Transform Of Body Gyroscope and Magnitude's mean 
+*Average Of Fast Fourier Transform Of Body Gyroscope and Magnitude's standard deviation 
+*Average Of Fast Fourier Transform Of Body Gyroscope with Jerking and Magnitude's mean 
+*Average Of Fast Fourier Transform Of Body Gyroscope with Jerking and Magnitude's standard deviation
